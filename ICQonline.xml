@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items_info> <!-- this is opitonal -->
-      <title>IPTV Thailand</title> 
+      <title>[COLOR cyan]IPTV & Movie & Series[/COLOR]</title> 
       <genre>2016</genre>
       <description>Iptv of Thailand</description>
       <thumbnail>https://s32.postimg.org/j5axnahyt/algarve_uk_tv_bbc_itv_free_iptv_premium_sky_spor.jpg</thumbnail>
@@ -8,24 +8,31 @@
     </items_info>
     
 <item>
-<title>ICQ online</title>
+<title>[COLOR cyan]IPTV (wait update)[/COLOR]</title>
 <thumbnail>https://s32.postimg.org/j5axnahyt/algarve_uk_tv_bbc_itv_free_iptv_premium_sky_spor.jpg</thumbnail>
 <link>http://ignorame</link>
-<externallink>https://www.dropbox.com/s/xjsqeceakksb37y/TVP.txt?dl=1$$LSProEncKey=hrofoxkws52696$$</externallink>
+<externallink>http://googl/iSa4NT$$LSProEncKey=hrofoxkws52696$$</externallink>
 </item>
 
 <item>
-<title>Movie Online</title>
+<title>[COLOR cyan]Movie[/COLOR]</title>
 <thumbnail>https://s32.postimg.org/j5axnahyt/algarve_uk_tv_bbc_itv_free_iptv_premium_sky_spor.jpg</thumbnail>
 <link>http://ignorame</link>
-<externallink>https://www.dropbox.com/s/oyh6ryym76fok1t/Moviep.xml?dl=1$$LSProEncKey=eadopfwxzss81396$$</externallink>
+<externallink>https://goo.gl/qloN31$$LSProEncKey=eadopfwxzss81396$$</externallink>
 </item>
 
 <item>
-<title>Series(TEST)</title>
+<title>[COLOR cyan]Series[/COLOR]</title>
 <thumbnail>https://s32.postimg.org/j5axnahyt/algarve_uk_tv_bbc_itv_free_iptv_premium_sky_spor.jpg</thumbnail>
 <link>http://ignorame</link>
-<externallink>https://www.dropbox.com/s/nu4358mxle23are/Seriesp.xml?dl=1$$LSProEncKey=epcxowewzx15286$$</externallink>
+<externallink>https://goo.gl/JUrHIy$$LSProEncKey=epcxowewzx15286$$</externallink>
+</item>
+
+<item>
+<title>[COLOR cyan]Anime (Coming Soon)[/COLOR]</title>
+<thumbnail>https://s32.postimg.org/j5axnahyt/algarve_uk_tv_bbc_itv_free_iptv_premium_sky_spor.jpg</thumbnail>
+<link>http://ignorame</link>
+<externallink></externallink>
 </item>
 
 <channel>
