@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items_info> <!-- this is opitonal -->
-      <title>IPTV Thailand</title> 
+      <title>[COLOR cyan]IPTV & Movie & Series[/COLOR]</title> 
       <genre>2016</genre>
       <description>Iptv of Thailand</description>
       <thumbnail>https://s32.postimg.org/j5axnahyt/algarve_uk_tv_bbc_itv_free_iptv_premium_sky_spor.jpg</thumbnail>
@@ -8,10 +8,24 @@
     </items_info>
     
 <item>
+<title>[COLOR cyan]IPTV[/COLOR]</title>
+<thumbnail>https://s32.postimg.org/j5axnahyt/algarve_uk_tv_bbc_itv_free_iptv_premium_sky_spor.jpg</thumbnail>
+<link>http://ignorame</link>
+<externallink>http://goo.gl/iSa4NT$$LSProEncKey=hrovcWws52696$$</externallink>
+</item>
+
+<item>
 <title>[COLOR cyan]Movie[/COLOR]</title>
 <thumbnail>https://s32.postimg.org/j5axnahyt/algarve_uk_tv_bbc_itv_free_iptv_premium_sky_spor.jpg</thumbnail>
 <link>http://ignorame</link>
 <externallink>https://goo.gl/qloN31$$LSProEncKey=eadopfwxzss81396$$</externallink>
+</item>
+
+<item>
+<title>[COLOR cyan]Series[/COLOR]</title>
+<thumbnail>https://s32.postimg.org/j5axnahyt/algarve_uk_tv_bbc_itv_free_iptv_premium_sky_spor.jpg</thumbnail>
+<link>http://ignorame</link>
+<externallink>https://goo.gl/JUrHIy$$LSProEncKey=epcxowewzx15286$$</externallink>
 </item>
 
 <channel>
