@@ -36,10 +36,17 @@
 </item>
 
 <item>
-<title>[COLOR lime]Cable TV[/COLOR]</title>
+<title>[COLOR cyan]Cable TV[/COLOR]</title>
 <thumbnail>http://www.airbrowser-app.com/downloads/airbrowser_app_icon.png</thumbnail>
 <link>Redfight</link>
 <externallink>https://www.dropbox.com/s/e1tgw58nslctaqu/cabletv.txt?dl=1$$LSProEncKey=@RedfightLTF@$$</externallink>
+</item>
+
+<item>
+<title>[COLOR cyan]Redfight Sport Inter[/COLOR]</title>
+<thumbnail>https://static-s.aa-cdn.net/img/ios/729549263/e3fee82a59926176a92ade789153bf03</thumbnail>
+<link>Redfight</link>
+<externallink>https://www.dropbox.com/s/3zt3pl26u2gg9cs/sportinter.txt?dl=1$$LSProEncKey=@RedfightLTF@$$</externallink>
 </item>
 
 <channel>
