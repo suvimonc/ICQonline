@@ -57,8 +57,10 @@
 </item>
 
 <item>
-<title>[COLOR orange] ถ่ายสดๆไม่สดไม่ถ่าย [/COLOR]</title>
-<link>tourchokun</link><externallink>https://www.dropbox.com/s/ir3bz7eb8d2gs6k/dooball128.xml?dl=1$$LSProEncKey=chokun2548$$</externallink>
+<channel>
+<name>[COLOR orange] TOUR SPORT ON TIME [/COLOR]</name><thumbnail></thumbnail>
+<item><title>[COLOR orange] TOUR SPORT ON TIME [/COLOR]</title><link>tourchokun</link><externallink>https://www.dropbox.com/s/ir3bz7eb8d2gs6k/dooball128.xml?dl=1$$LSProEncKey=chokun2548$$</externallink></item>
+</channel>
 </item>
 
 <channel>
